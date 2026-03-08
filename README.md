@@ -1,2 +1,2 @@
-# PGO_homework
-Howe work of Pbject programing class
+# PJATK-PGO-Cw1-s25722
+Howe work of Object programing class
